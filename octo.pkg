@@ -1,0 +1,12 @@
+{
+    version: "0.0.1",
+    name: "odin-ml",
+    owner: "Dan Castrillo<dan@devoured.io>",
+    description: "ml experimentation library",
+    url: "github.com/dvrd/odin-ml",
+    readme: "",
+    license: "",
+    keywords: [],
+    dependencies: {}
+}
+
